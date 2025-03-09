@@ -2,7 +2,7 @@
 
 <h1>Edge-aware and Attention-aided U-Net Model for Skin Lesion Segmentation</h1>
 <br>
-This is the official implementation of "Edge-aware and Attention-aided U-Net Model for Skin Lesion Segmentation".
+This is the official implementation of "Edge-aware and Attention-aided U-Net Model for Skin Lesion Segmentation" (IEEE CAI, 2025).
 <br>
 
 ![](https://github.com/user-attachments/assets/d6169d18-3f85-4652-b7ee-cfa6a8d68b78)
