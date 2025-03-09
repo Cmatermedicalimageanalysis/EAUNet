@@ -3,12 +3,17 @@
 <h1>Edge-aware and Attention-aided U-Net Model for Skin Lesion Segmentation</h1>
 <br>
 This is the official implementation of "Edge-aware and Attention-aided U-Net Model for Skin Lesion Segmentation".
-![CAI_conference drawio(2)](https://github.com/user-attachments/assets/acbb6c93-c276-430a-a417-93bb3575e836)
+<br>
+
+![](https://github.com/user-attachments/assets/d6169d18-3f85-4652-b7ee-cfa6a8d68b78)
+
 <h2>Overall Workflow:</h2>
 
 <br>
 <h3>Architecture of the Effective Edge Detection (EED) module:</h3>
-![EEDT (1)](https://github.com/user-attachments/assets/70d99145-d7d1-4eb2-91f6-b126e1e49368)
+
+![](https://github.com/user-attachments/assets/70d99145-d7d1-4eb2-91f6-b126e1e49368)
+
 <br>
 <h2>Results:</h2>
 <br>
